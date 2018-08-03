@@ -17,3 +17,18 @@ class App extends Component {
 }
 
 export default HOCDemoComponent(App);
+
+// or you can also do this with annotation @HOCDemoComponent
+
+// @HOCDemoComponent
+// class App extends Component {
+//     render() {
+//         return (
+//             <div className="App">
+//                 Your Render function
+//             </div>
+//         );
+//     }
+// }
+//
+// export default App;
