@@ -1,0 +1,9 @@
+.header {
+    position: relative;
+    width: auto;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background: aqua;
+    text-align: -webkit-center;
+}
